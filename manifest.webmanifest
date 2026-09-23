@@ -11,7 +11,7 @@
   "theme_color": "#12332F",
   "icons": [
     {
-      "src": "https://roaawalid026-glitch.github.io/roaawalid.github.io/icon-192.png",
+      "src":/icon-192.png",
       "type": "image/png",
       "isSquare": false,
       "isPng": true,
