@@ -1,0 +1,38 @@
+{
+  "background_color": "#000000",
+  "description": "Nasaq — digital products by Roaa Walid Alkhawaldeh, Software Engineering student.",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Nasaq",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Nasaq",
+  "start_url": "/",
+  "theme_color": "#12332F",
+  "icons": [
+    {
+      "src": "https://roaawalid026-glitch.github.io/roaawalid.github.io/icon-192.png",
+      "type": "image/png",
+      "isSquare": false,
+      "isPng": true,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 0,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    },
+    {
+      "src": "https://roaawalid026-glitch.github.io/roaawalid.github.io/icon-180.png",
+      "isSquare": false,
+      "isPng": true,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 0,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    }
+  ],
+  "id": "com.nasaq.app"
+}
